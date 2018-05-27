@@ -21,7 +21,7 @@ function makeInt(n){
   return n
 }
 function makeInt(n){
-  parseInt(n,10)
-  return n
+  var parse = parseInt("2x2328",10)
+  return parse
 }
 parseInt(n,10)
