@@ -22,5 +22,6 @@ function makeInt(n){
 }
 function preserveDecimal(){
     var n = parseFloat("2.222")
+    var x = parseInt("")
 	return n 
 }
