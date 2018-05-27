@@ -20,6 +20,6 @@ function makeInt(n){
   parseInt(n,10);
   return n
 }
-function preserveDecimal(n){
-  parseInt(n,10)
+function preserveDecimal(){
+  parseInt('0x2328',10)
 }
