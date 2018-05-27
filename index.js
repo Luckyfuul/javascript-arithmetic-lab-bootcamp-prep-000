@@ -24,4 +24,3 @@ function makeInt(n){
   var parse = parseInt("2x2328",10)
   return parse
 }
-parseInt(n,10)
