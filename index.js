@@ -20,9 +20,6 @@ function makeInt(n){
   parseInt(n,10);
   return n
 }
-function preserveDecimal(){
-    var n = parseFloat("2.222")
-    var x = parseInt('sldkjflksjf',10)
-	return n 
-	return x
+function preserveDecimal(n){
+  parseInt(n,10)
 }
