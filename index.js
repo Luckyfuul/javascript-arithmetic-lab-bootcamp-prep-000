@@ -16,8 +16,8 @@ function inc(n) {
 function dec(n){
   return n-= 1
 }
-function makeInt(){
- return parseInt('0x2328');
+function makeInt(n){
+ return parseInt(n,10);
 }
 function preserveDecimal(){
   parseInt('0x2328',10)
